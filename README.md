@@ -8,6 +8,6 @@
  
  2° - Digitar docker build -t nginx-treinamento . (para criar a imagem)
  
- 3° - docker run -it -d --name="web" -p 9090:80 --restart="always" nginx-treinamento (para criar o container)
+ 3° - docker run -it -d --name="web" -p 9595:80 --restart="always" nginx-treinamento (para criar o container)
  
  4° - No navegador web digitar localhost:9595
