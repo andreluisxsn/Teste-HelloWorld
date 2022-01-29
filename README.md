@@ -11,3 +11,5 @@
  3° - docker run -it -d --name="web" -p 9595:80 --restart="always" nginx-treinamento (para criar o container)
  
  4° - No navegador web digitar localhost:9595
+
+#Docker hard!
